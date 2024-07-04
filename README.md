@@ -56,6 +56,7 @@
 - [halo-theme-twentytwelve](https://github.com/chengzhongxue/halo-theme-twentytwelve) - TwentyTwelve 双栏文字 Halo 主题 ， 移植于 WordPress 的 [2012-huhexian](https://github.com/huhexian/2012-huhexian)
 - [halo-theme-Mego](https://github.com/wflac/theme-Mego) - 一款基于 Halo 的简约时尚的原创卡片式博客主题，炫酷的个人展示图，拥有 Banner 展示位、通知、侧边小卡片。
 - [halo-theme-higan-hz](https://github.com/HowieHz/halo-theme-higan-hz) - 适用于 Halo 2.0 的 Higan-Hz 主题，魔改于 [theme-higan](https://github.com/guqing/halo-theme-higan)，侧重于更高的配置自由度与更激进的修改。
+- [halo-theme-crux-4zero4](https://github.com/haoanlan/halo-theme-crux-4zero4) - 适用于 Halo 2.0 ，基于 [theme-crux](https://github.com/Shine-Theme/halo-theme-crux)进行二次修改开发的 Halo 主题。
 
 ### 插件
 
@@ -118,6 +119,7 @@
 - [halo-plugin-picture-bed](https://github.com/liuyiwuqing/halo-plugin-picture-bed) - 对接多种图床服务，实现图片上传、删除等功能。
 - [plugin-artalk](https://github.com/wenjing-xin/plugin-artalk) - 集成[artalk](https://artalk.js.org/) 评论系统至 halo2.0 站点。
 - [halo-plugin-postchat](https://github.com/zhheo/halo-plugin-postchat) - 集成 [PostChat](https://ai.tianli0.top/) AI增强工具至 Halo 2.0 站点。
+- [halo-plugin-colorless](https://github.com/guqing/halo-plugin-colorless) - 让 Halo 所有主题都失去色彩，展示为灰白效果。
 
 ### 其他
 
