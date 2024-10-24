@@ -57,6 +57,8 @@
 - [halo-theme-Mego](https://github.com/wflac/theme-Mego) - 一款基于 Halo 的简约时尚的原创卡片式博客主题，炫酷的个人展示图，拥有 Banner 展示位、通知、侧边小卡片。
 - [halo-theme-higan-hz](https://github.com/HowieHz/halo-theme-higan-hz) - 适用于 Halo 2.0 的 Higan-Hz 主题，魔改于 [theme-higan](https://github.com/guqing/halo-theme-higan)，侧重于更高的配置自由度与更激进的修改。
 - [halo-theme-crux-4zero4](https://github.com/haoanlan/halo-theme-crux-4zero4) - 适用于 Halo 2.0 ，基于 [theme-crux](https://github.com/Shine-Theme/halo-theme-crux)进行二次修改开发的 Halo 主题。
+- [theme-vcard4](https://github.com/Anyexyz/theme-vcard4) - 适用于 Halo 2.0，是一个响应式的个人作品集主题，可适配所有设备，移植于 [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio/)。
+- [halo-theme-next](https://github.com/bit15k/halo-theme-next) - 适用于 Halo 2.0 的 Next 主题，该主题移植于 [Hexo-Theme-Next](https://github.com/next-theme/hexo-theme-next/)。
 
 ### 插件
 
@@ -116,10 +118,14 @@
 - [halo-plugin-typecho](https://github.com/ShiinaKin/halo-plugin-typecho) - 为 Halo 2.0 提供 Typecho 页面和文章的迁移功能，需要配合 Typecho 侧插件使用。
 - [halo-twikoo](https://github.com/ichenhe/halo-twikoo) - 将 [Twikoo](https://twikoo.js.org/) 评论系统集成到 Halo 2.0。
 - [plugin-afdian](https://github.com/carolcoral/plugin-afdian) - Halo 2.0 的爱发电插件，提供爱发电赞助者信息等内容。
+- [plugin-image-url-handler](https://github.com/kecikeci/halo-plugin-image-url-handler) - Halo 2.0 插件-图片链接处理。
 - [halo-plugin-picture-bed](https://github.com/liuyiwuqing/halo-plugin-picture-bed) - 对接多种图床服务，实现图片上传、删除等功能。
 - [plugin-artalk](https://github.com/wenjing-xin/plugin-artalk) - 集成[artalk](https://artalk.js.org/) 评论系统至 halo2.0 站点。
 - [halo-plugin-postchat](https://github.com/zhheo/halo-plugin-postchat) - 集成 [PostChat](https://ai.tianli0.top/) AI增强工具至 Halo 2.0 站点。
-- [halo-plugin-colorless](https://github.com/guqing/halo-plugin-colorless) - 让 Halo 所有主题都失去色彩，展示为灰白效果。
+- [plugin-blog-hao](https://github.com/wenjing-xin/plugin-blog-hao) 让你的博客变得更好！功能相见仓库README文档。
+- [plugin-waline](https://github.com/wenjing-xin/plugin-waline) - 集成 [waline](https://waline.js.org/) 评论系统至 halo 站点
+- [plugin-comment-migrate](https://github.com/chengzhongxue/plugin-comment-migrate) - 评论迁移，支持 Artalk 及 Twikoo 及 Waline 等多种平台的评论迁移插件
+- [plugin-import-hw-doc](https://github.com/yss930819/halo-plugin-import-hw-doc) - 为 Halo 2.0 提供导入华为备忘录 HTML 功能。可将华为备忘录导出的 HTML 文件导入
 
 ### 其他
 
